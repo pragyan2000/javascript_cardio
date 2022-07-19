@@ -31,7 +31,7 @@ function chunkArray(arr, len) {
     //     chunked.push(arr.splice(0, len));
     // }
     // return chunked;
-    // ----- END ----- // 
+    ----- END ----- 
 }
 
 // CHALLENGE 3: FLATTEN ARRAY
